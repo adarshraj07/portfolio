@@ -1,3 +1,4 @@
+🌐 Adarsh Raj - Portfolio
 A modern, responsive portfolio website to showcase my skills, projects, certifications, and achievements.
 
 ✨ Features
@@ -52,7 +53,7 @@ bash
 Copy
 Edit
 # Clone the repository
-git clone https://github.com/your-username/portfolio.git
+git clone https://github.com/adarshraj07/portfolio.git
 
 # Navigate into the project directory
 cd portfolio
@@ -60,9 +61,13 @@ cd portfolio
 # Open the project in your browser
 # Either double-click index.html or use a local development server
 🌍 Live Demo
-👉 Click here to view the live demo
+👉 [Click here to view the live demo](https://adarshraj07.github.io/portfolio/)
+
 
 📫 Contact
 📧 Email: adarsh@example.com
 
 📍 Location: Bihar, India
+
+📄 License
+This project is open source and available under the MIT License.
